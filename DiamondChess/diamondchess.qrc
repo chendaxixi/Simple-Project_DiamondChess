@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="">
+		<file>DiamondChess.ico</file>
+		<file>small.ico</file>
+    </qresource>
+</RCC>
